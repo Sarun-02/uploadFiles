@@ -1,0 +1,31 @@
+.uploadContainer {
+  border: 3px dashed #0a7f8f; /* dotted/dashed border */
+  border-radius: 12px;
+  width: 100%; /* adjust width */
+  height: 400px; /* adjust height */
+  display: flex;
+  justify-content: center; /* center horizontally */
+  align-items: center; /* center vertically */
+  background-color: #f9f9f9e8; /* light background */
+  margin: 20px auto; /* center on page */
+  cursor: pointer; /* feels clickable */
+  text-align: center; /* align text in center */
+  gap: 100px;
+}
+
+.uploadContainer p {
+  font-size: 20px;
+  font-weight: 500;
+  color: #555;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.secondPage {
+  width: 50%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* center horizontally */
+  align-items: center;
+}

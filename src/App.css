@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #074a5d;
+  background: linear-gradient(to bottom, #074a5d, #0a7f8f);
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
